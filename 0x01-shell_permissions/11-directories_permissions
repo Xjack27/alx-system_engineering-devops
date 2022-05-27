@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R d+x /alx-systerm_engineering-devops/0x001-shell_permissions
+find /alx-system_engineering-devops/0x01-shell_permissions -type d chmod -R +x {}
