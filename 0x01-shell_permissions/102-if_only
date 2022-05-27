@@ -1,2 +1,2 @@
 #!/bin/bash
-find -user guillaume |xargs chown betty hello
+chown betty hello If only user=guillaume
